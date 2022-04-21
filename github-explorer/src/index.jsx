@@ -1,6 +1,4 @@
-import React from 'react';
-import {App} from './app'
+import {render} from 'react-dom';
+import {App} from './app';
 
-/* function Wrapper(){
-    return <h1>Hello World</h1>
-} não vai mais usar */
+render(<App/>, document.getElementById('root'))
