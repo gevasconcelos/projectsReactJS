@@ -1,2 +1,3 @@
-# reactJS
-Repositorio criado com o intuito de estudar ReactJS
+# Projects using ReactJs
+
+<p>Repository created to store projects using ReactJs</p>
